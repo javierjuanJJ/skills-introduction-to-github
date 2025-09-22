@@ -2,15 +2,14 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey javierjuanJJ!
+**Welcome, Javier Juan Uceda!**
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+This exercise has been prepared to guide you through the fundamentals of GitHub. You can complete it at your own pace—take breaks whenever you need.
 
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/javierjuanJJ/skills-introduction-to-github/issues/1)
+📌 **[Start the Exercise →](https://github.com/javierjuanJJ/skills-introduction-to-github/issues/1)**
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+© 2025 GitHub
+[Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) |
+[MIT License](https://gh.io/mit)
